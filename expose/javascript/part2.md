@@ -9,4 +9,18 @@
 9. It will cause an error before reaching line 11. Because discounted has been declared as a const and hence we cannot modify it, therefore trying to modify the values of discounted at line 8 would throw an error.
 10. It will cause an error before reaching line 11. Because discounted has been declared as a const and hence we cannot modify it, therefore trying to modify the values of discounted at line 8 would throw an error.
 11. It will cause an error before reaching line 11. Because discounted has been declared as a const and hence we cannot modify it, therefore trying to modify the values of discounted at line 8 would throw an error.
-12. 
+12. text
+13. A. '32'
+    B. 1
+    C. 3
+    D. '3null'
+    E. 4
+    F. 0
+    G. '3undefined'
+14. A. true
+    B. false
+    C. true
+    D. false
+    E. false
+    F. true
+15. 
