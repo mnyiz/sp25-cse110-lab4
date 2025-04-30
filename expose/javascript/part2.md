@@ -27,4 +27,5 @@
     D. false\
     E. false\
     F. true
-17. 
+15. The == operator is a loose equal operator that will convert everything to numbers before doing the comparison, while === is more strict. The === operator will not perform any conversions before comparison.
+17.  
