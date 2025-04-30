@@ -9,10 +9,10 @@
 9. It will cause an error. Since i is declared with let, it is not accessible outside of the for loop and therefore line 12 would be an error.
 10. It will print out 3. There are no errors because the const variables are not reassigned any values, so the code runs normally.
 11. It will return the array discounted, which in the end would be [50, 100, 150].
-12. A. student.name
-    B. student['Grad Year']
-    C. student.greeting()
-    D. student['Favorite Teacher'].name
+12. A. student.name\
+    B. student['Grad Year']\
+    C. student.greeting()\
+    D. student['Favorite Teacher'].name\
     E. student.courseLoad[0]
 14. A. '32'
     B. 1
