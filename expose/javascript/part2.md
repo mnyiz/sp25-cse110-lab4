@@ -30,4 +30,5 @@
 15. The == operator is a loose equal operator that will convert everything to numbers before doing the comparison, while === is more strict. The === operator will not perform any conversions before comparison.
 16. in js file
 17. The result is [2, 4, 6]. The function takes in the array [1, 2, 3] and the callback function doSomething, then loops through each element of the array and calling the callback. The callback function doSomething multiplies the number by 2, and then we store it into newArr, which is returned at the end. Therefore, we get 1, 2, 3 multiplied by 2 respectively, hence the array [2, 4, 6].
-18. 
+18. in js file
+19. 1 4 3 2
