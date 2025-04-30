@@ -14,7 +14,7 @@
     C. student.greeting()\
     D. student['Favorite Teacher'].name\
     E. student.courseLoad[0]
-13. A. '32'\   
+13. A. '32'\
     B. 1\
     C. 3\
     D. '3null'\
