@@ -4,7 +4,7 @@
 4. It will return the array discounted, which in the end would be [50, 100, 150].
 5. It will cause an error. Since i is declared with let, it is not accessible outside of the for loop and therefore line 12 would be an error.
 6. It will cause an error. Since discountedPrice is declared with let, it is not accessible outside of the for loop and therefore line 13 would be an error.
-7. It will print 150. In the for loop finalPrice is updated continuously with each price. The last price 300 after calculations with the discount: 300 * 0.5 and the rounding: Math.round(300 * 100 / 100) is 150, which is what is stored in finalPrice. finalPrice is defined within the function so there is no issue accessing it.
+7. It will print 150. The variable finalPrice is declared outside of the for loop and is accessible throughout the function. The last price 300 after calculations with the discount: 300 * 0.5 and the rounding: Math.round(300 * 100 / 100) is 150, which is what is stored in finalPrice. finalPrice is defined within the function so there is no issue accessing it.
 8. It will return the array discounted, which in the end would be [50, 100, 150].
 9. It will cause an error. Since i is declared with let, it is not accessible outside of the for loop and therefore line 12 would be an error.
 10. It will print out 3. There are no errors because the const variables are not reassigned any values, so the code runs normally.
